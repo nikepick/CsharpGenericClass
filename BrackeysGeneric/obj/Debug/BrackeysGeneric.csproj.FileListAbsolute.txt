@@ -1,0 +1,5 @@
+/Users/nikhil.yadav/Projects/BrackeysGeneric/BrackeysGeneric/bin/Debug/BrackeysGeneric.exe
+/Users/nikhil.yadav/Projects/BrackeysGeneric/BrackeysGeneric/bin/Debug/BrackeysGeneric.pdb
+/Users/nikhil.yadav/Projects/BrackeysGeneric/BrackeysGeneric/obj/Debug/BrackeysGeneric.csprojAssemblyReference.cache
+/Users/nikhil.yadav/Projects/BrackeysGeneric/BrackeysGeneric/obj/Debug/BrackeysGeneric.exe
+/Users/nikhil.yadav/Projects/BrackeysGeneric/BrackeysGeneric/obj/Debug/BrackeysGeneric.pdb
